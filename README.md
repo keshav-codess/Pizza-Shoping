@@ -68,15 +68,7 @@ Pizza-Shoping/
 
 ---
 
-## 💡 How to Run Locally
 
-```bash
-git clone https://github.com/keshav-codess/Pizza-Shoping.git
-cd Pizza-Shoping
-start index.html
-# On macOS/Linux you could replace `start` with `open`
-
----
 
 <details> <summary>🧠 <strong>Future Ideas</strong></summary> <br>
 🔒 Add-to-cart persistence using localStorage
