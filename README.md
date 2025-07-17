@@ -4,7 +4,7 @@ Welcome to **SliceRush** – a sleek, JavaScript-powered pizza shopping app wher
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-       alt="Pizza Banner" width="700" style="border-radius: 12px;" />
+       alt="Pizza Banner" width="300" style="border-radius: 12px;" />
 </p>
 
 
