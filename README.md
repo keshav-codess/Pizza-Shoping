@@ -73,21 +73,28 @@ Pizza-Shoping/
 ```bash
 git clone https://github.com/keshav-codess/Pizza-Shoping.git
 cd Pizza-Shoping
-# Open index.html in your browser
+start index.html
+> On macOS/Linux you could replace `start` with `open`.
 
-🔮 Future Ideas
-🛍️ Add-to-cart persistence using localStorage
-📱 Fully mobile-responsive layout
-🔧 Admin dashboard to manage products
-🌐 Firebase or Node.js backend integration
+---
 
+<details>
+<summary>🧠 <strong>Future Ideas</strong></summary>
 
-🙌 Acknowledgements
-🍕 Pizza images: Unsplash
-🎨 Icons: Bootstrap Icons, Flaticon
-🌍 Hosting: GitHub Pages
+- 🔒 Add-to-cart persistence using `localStorage`  
+- 📱 Fully mobile-responsive layout  
+- 🛠️ Admin dashboard to manage products  
+- 🌐 Firebase or Node.js backend integration  
 
-👨‍💻 Made by
-Keshav
+</details>
+
+## 🙌 Acknowledgements
+
+- 🍕 Pizza images from [Unsplash](https://unsplash.com/)
+- 🎨 Icons by [Bootstrap Icons](https://icons.getbootstrap.com/) & [Flaticon](https://www.flaticon.com/)
+- 🌍 Hosting via [GitHub Pages](https://pages.github.com/)
+
+👨‍💻 Made with ❤️ by [Keshav](https://github.com/keshav-codess)
+
 
 ⭐ If you enjoyed this project, please give it a star!
