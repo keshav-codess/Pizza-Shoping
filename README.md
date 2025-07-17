@@ -2,7 +2,7 @@
 
 Welcome to **SliceRush** – a sleek, JavaScript-powered pizza shopping app where users can browse, sort, and order their favorite pizza in just a few clicks.
 
-![Pizza Banner](https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Pizza Banner](https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 ---
