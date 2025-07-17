@@ -84,6 +84,8 @@ Pizza-Shoping/
 - 🎨 Icons by [Bootstrap Icons](https://icons.getbootstrap.com/) & [Flaticon](https://www.flaticon.com/)
 - 🌍 Hosting via [GitHub Pages](https://pages.github.com/)
 
+
+---
 👨‍💻 Made with ❤️ by [Keshav](https://github.com/keshav-codess)
 
 
