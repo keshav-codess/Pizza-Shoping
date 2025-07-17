@@ -18,20 +18,25 @@ Welcome to **SliceRush** – a sleek, JavaScript-powered pizza shopping app wher
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
 <details>
 <summary>Click to expand</summary>
 
+<pre>
 Pizza-Shoping/
 ├── index.html
 └── scripts/
-├── controllers/
-│ └── product-controller.js
-├── models/
-├── services/
-│ └── payment.js
-└── utils/
+    ├── controllers/
+    │   └── product-controller.js
+    ├── models/
+    ├── services/
+    │   └── payment.js
+    └── utils/
+</pre>
 
 </details>
+
 
 ---
 
