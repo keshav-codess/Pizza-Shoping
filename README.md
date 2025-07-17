@@ -69,13 +69,14 @@ Pizza-Shoping/
 ---
 
 
+## 🧠 Future Ideas
 
-<details> <summary>🧠 <strong>Future Ideas</strong></summary> <br>
-🔒 Add-to-cart persistence using localStorage
-📱 Fully mobile-responsive layout
-🛠️ Admin dashboard to manage products
-🌐 Firebase or Node.js backend integration
-</details>
+- 🔒 Add-to-cart persistence using localStorage
+- 📱 Fully mobile-responsive layout
+- 🛠️ Admin dashboard to manage products
+- 🌐 Firebase or Node.js backend integration
+
+---
 
 ## 🙌 Acknowledgements
 
