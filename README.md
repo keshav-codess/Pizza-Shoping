@@ -18,8 +18,6 @@ Welcome to **SliceRush** – a sleek, JavaScript-powered pizza shopping app wher
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 <details>
 <summary>Click to expand</summary>
 
