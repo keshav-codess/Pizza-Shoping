@@ -74,18 +74,15 @@ Pizza-Shoping/
 git clone https://github.com/keshav-codess/Pizza-Shoping.git
 cd Pizza-Shoping
 start index.html
-> On macOS/Linux you could replace `start` with `open`.
+# On macOS/Linux you could replace `start` with `open`
 
 ---
 
-<details>
-<summary>🧠 <strong>Future Ideas</strong></summary>
-
-- 🔒 Add-to-cart persistence using `localStorage`  
-- 📱 Fully mobile-responsive layout  
-- 🛠️ Admin dashboard to manage products  
-- 🌐 Firebase or Node.js backend integration  
-
+<details> <summary>🧠 <strong>Future Ideas</strong></summary> <br>
+🔒 Add-to-cart persistence using localStorage
+📱 Fully mobile-responsive layout
+🛠️ Admin dashboard to manage products
+🌐 Firebase or Node.js backend integration
 </details>
 
 ## 🙌 Acknowledgements
